@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @keyboardshotgun.
+- 👋 Hi, I’m @keyboardShotgun.
 - 👀 I’m interested in C.P.A.D Frameworks, DL/ML + Vision.
 - 🌱 I’m currently learning Flutter & DL/ML.
 - 💞️ I’m looking for somebody to Love.
